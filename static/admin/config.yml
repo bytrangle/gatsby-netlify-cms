@@ -2,6 +2,12 @@ backend:
   name: github
   repo: bytrangle/gatsby-netlify-cms
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: bytrangle
+    api_key: 939875259313125
+
 media_folder: static/assets
 public_folder: /assets
 
