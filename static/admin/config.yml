@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: bytrangle/gatsby-netlify-cms
+  branch: main
 
 media_library:
   name: cloudinary
