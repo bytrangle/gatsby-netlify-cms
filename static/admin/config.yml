@@ -3,7 +3,7 @@ backend:
   repo: bytrangle/gatsby-netlify-cms
   branch: main
 
-media_library:
+media_library: # This setting is global and will affect every individual field that uses the media library
   name: cloudinary
   config:
     cloud_name: bytrangle
@@ -21,4 +21,5 @@ collections:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
+      - { name: featured-image, label: "Featured Image", widget: "image"}
       - { name: body, label: Body, widget: markdown }
