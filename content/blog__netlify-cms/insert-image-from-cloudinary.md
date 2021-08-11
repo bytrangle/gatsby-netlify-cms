@@ -5,10 +5,10 @@ title: Insert Image from Cloudinary
 ---
 Below is an image sourced from Cloudinary.
 
-
-
 You can't see it, but when I click *Add component > Image*, Netlify CMS will open my Cloudinary library, and I can choose the image that I want to insert into this post.
 
 
 
-This is now the original image that I downloaded from Unsplash and then uploaded to Cloudinary as it was. I selected the image in the editor, than clicked **Edit** button to scale it to 1600px wide.
+![](https://res.cloudinary.com/bytrangle/image/upload/v1628569271/Code%20demos/pawel-czerwinski-NSg56vIPotw-unsplash_emthmu.jpg)
+
+Do you see the image?
