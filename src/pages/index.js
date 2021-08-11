@@ -8,8 +8,7 @@ const IndexPage = ({ data }) => (
   <Layout>
     <Seo title="Home" />
     <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <p>This site is built with Gatsby with content sourced from Netlify CMS.</p>
     <h2>Blog</h2>
     {data.allMarkdownRemark.nodes.map(node => (
       <article key={node.id}>
