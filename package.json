@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-netlify-cms-integration",
+  "name": "gatsby-netlify-cms-cloudinary",
   "private": true,
-  "description": "A demo for integrating Gatsby with Netlify CMS to make a blog. No fail guaranteed.",
+  "description": "",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
@@ -26,10 +26,7 @@
   "devDependencies": {
     "prettier": "2.3.2"
   },
-  "keywords": [
-    "gatsbyjs",
-    "netlify-cms"
-  ],
+  "keywords": [],
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
