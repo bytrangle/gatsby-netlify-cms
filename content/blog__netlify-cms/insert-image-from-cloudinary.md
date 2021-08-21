@@ -5,7 +5,7 @@ title: Insert Image from Cloudinary
 ---
 ## Instruction
 
-Below is an image sourced from Cloudinary.
+Below is an image sourced from -# Cloudinary -#.
 
 You can't see it, but when I click *Add component > Image*, Netlify CMS will open my Cloudinary library, and I can choose the image that I want to insert into this post.
 
