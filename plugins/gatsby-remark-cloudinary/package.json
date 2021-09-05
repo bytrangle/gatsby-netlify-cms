@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-remark-cloudinary",
+  "version": "1.0.0",
+  "description": "A Remark plugin for serving responsive images sourced from your Cloudinary account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby.js",
+    "ast",
+    "remark",
+    "plugin"
+  ],
+  "author": "Trang Le",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "mdast-util-definitions": "^4.0.0",
+    "querystring": "^0.2.1",
+    "unist-util-visit-parents": "^3.1.1"
+  }
+}

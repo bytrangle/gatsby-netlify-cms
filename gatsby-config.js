@@ -25,7 +25,16 @@ module.exports = {
       {
         resolve: `gatsby-plugin-mdx`,
         options: {
-          extensions: [`.mdx`, `.md`]
+          extensions: [`.mdx`, `.md`],
+          gatsbyRemarkPlugins: [
+            {
+              resolve: require.resolve(`./plugins/gatsby-remark-cloudinary`),
+              options: {
+                cloudName: `bytrangle`
+              }
+              // resolve: require.resolve(`./plugins/gatsby-remark-purple-headers`)
+            }
+          ]
         }
       },
       // {
