@@ -7,3 +7,5 @@ featured-image: https://res.cloudinary.com/bytrangle/image/upload/v1628569189/Co
 ## Thoughts
 
 It is a thorny problem. Things get complicated as soon as you want to do something ambitious with Gatsby.
+
+<!-- ![misty-mountains](./misty-mountains.jpg) -->
